@@ -1,5 +1,11 @@
 # Flask app sample for GAE.
 
+## Start
+  
+```
+pip install -t libs -r requirements.txt
+```
+
 ## Google App Engineに元からはいっていないライブラリを使う
 
 libs/ ディレクトリを作り、
